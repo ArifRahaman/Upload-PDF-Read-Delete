@@ -34,7 +34,7 @@ cd backend/
 ```
 
 Install the necessary dependencies.
-Next you need to enter your email address, mongodb uri in the .env file.
+Next you need to enter your preferred PORT number , mongodb uri in the .env file.
 
 Now run the application
 
